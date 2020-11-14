@@ -13,3 +13,8 @@ print("{} {}".format(d,b))
 print(type(b))
 print(type(c))
 print(type(d))
+print("Happy Diwali")
+print("Happy Diwali")
+print("Happy Diwali")
+print("Happy Diwali")
+
