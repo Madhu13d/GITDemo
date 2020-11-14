@@ -14,3 +14,5 @@ print(str3.strip())# strip removes begining and ending spaces of a string
 print(str3.lstrip())# strip removes begining spaces of a string
 print(str3.rstrip())# strip removes ending spaces of a string
 
+print("Welcome....")
+
